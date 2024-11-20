@@ -1,10 +1,10 @@
-public class StringClass {
+public class lengthDemo {
     public static void main(String[] args) {
 
     //1.	 length() method
     //The length() method returns the length of the string,
     // or it returns the count of the total number of characters present in the string
-        
+
         String str1 = "Java";
         String str2 = "";
 
